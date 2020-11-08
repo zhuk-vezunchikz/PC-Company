@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: aqua;
+}
+
+.itemLogo {
+
+}
+
+.itemNav a {
+    margin-left: 50px;
+    margin-right: 50px;
+}
