@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+}
+
+.item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.miniDescriptionLeft {
+    margin-left: 200px;
+}
+.miniDescriptionRight {
+    margin-right: 200px;
+}
+
+.container img {
+    max-height: 500px;
+}
+
+.container text {
+
+}

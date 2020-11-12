@@ -2,14 +2,16 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    background-color: aqua;
+    background-color: black;
+    padding: 30px;
 }
 
 .itemLogo {
-
+    color: white;
 }
 
 .itemNav a {
     margin-left: 50px;
     margin-right: 50px;
+    color: white;
 }

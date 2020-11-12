@@ -7,7 +7,7 @@ const Header = (props) => {
             <div className={style.itemLogo}>Лого</div>
             <nav className={style.itemNav}>
                 <a href="111">Главная</a>
-                <a href="111">Новости</a>
+                <a href="111">Доставка</a>
                 <a href="111">Контакты</a>
             </nav>
         </div>
